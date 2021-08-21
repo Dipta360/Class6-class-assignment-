@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* heading part */
+
+.heading{
+    background-color: #0b1979;
+    color: #fff;
+    padding: 10px 0 0 0;
+    border-bottom: 5px solid #000;
+}
+
+.heading h2{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.heading .red{
+    color: #9b8586;
+}
+
+.heading .blue{
+    color: #81c3f1;
+}
+
+/* sub-heading part */
+
+.sub-heading{
+    background-color: #047504;
+    color: #fff;
+}
+.sub-heading p{
+    font-family: 'Yellowtail', cursive;
+    font-size: 25px;
+}
+
+
+/* banner-img part */
+
+.banner-img{
+    background-color: #000;
+    margin-top: -16px;
+}
+
+/* about part */
+
+.about{
+    background-color: #834646;
+    color: #29272b;
+}
+.about h2{
+    font-family: 'Yellowtail', cursive;
+    font-size: 56px;
+}
+.about p{
+    background-color: #eee;
+    font-size: 15px;
+}
+
+/* service part */
+
+.service{
+    background-color: #297a48;
+}
+
+.service h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: -15px;
+    font-size: 50px;
+}
+
+.service-item{
+    background-color: #eee;
+    margin-top: -10px;
+    padding: 10px 0;
+}
+
+/* contact part */
+
+.contact-us{
+    background-color: #0d6efd;
+}
+.contact-us h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+}
+.contact{
+    background-color: #eee;
+    margin-top: -10px;
+}
+.contact-form{
+    width: 200px;
+    margin: auto;
+    padding: 15px 0;
+}
+
+/* footer part */
+
+.footer{
+    background-color: #4f84c4;
+    color: #fff;
+    padding: 10px 0;
+}
+.footer h1{
+    font-family: 'Yellowtail', cursive;
+    font-size: 50px;
+}
+.footer-bottom{
+    background-color: #000;
+    color: #fff;
+}
+.footer-bottom p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    padding: 5px;
+    margin: 0;
+}
+.footer-bottom .blue{
+    color: #0c67c7;
+}
